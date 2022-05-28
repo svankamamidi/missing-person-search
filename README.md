@@ -1,4 +1,4 @@
-Person of interest
+**Person of interest**
 
 1. Demoing video analysis
 
